@@ -5,7 +5,7 @@ My personal repository for university preparation.
 A student starting his journey in IT. The goal is to become a sought-after developer and land my first internship.
 
 ## Start
-First script: `init: first python script` — getting started with Python and GitHub.
+First script: `init_first_python_script` — getting started with Python and GitHub.
 
 ## Learning Plan
 - Algorithms and data structures (LeetCode/CodeWars)
