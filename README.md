@@ -12,6 +12,7 @@ First script: `init_first_python_script` — getting started with Python and Git
 - Projects (bots, parsers, web applications)
 - English for IT
 
+## Completed for the 2-nd day of learning
 - Built **Habit Tracker** CLI app:
   - Add habits with date stamps
   - View statistics (total, per habit, most/least common)
