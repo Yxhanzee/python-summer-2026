@@ -11,3 +11,9 @@ First script: `init_first_python_script` — getting started with Python and Git
 - Algorithms and data structures (LeetCode/CodeWars)
 - Projects (bots, parsers, web applications)
 - English for IT
+
+- Built **Habit Tracker** CLI app:
+  - Add habits with date stamps
+  - View statistics (total, per habit, most/least common)
+  - Data stored in local file
+  - Error handling for missing files and empty input
